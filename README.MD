@@ -1,4 +1,4 @@
-# **PI**
+# **ESTAÇÃO DE TRABALHO**
 
 ***Documento de configuração de ambiente de desenvolvimento***
 
